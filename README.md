@@ -15,10 +15,27 @@ Bienvenido al repositorio principal donde se aloja MLTHaKu.
 
 
 # Instrucciones
+
+## PS Vita sin haber instalado previamente Henkaku ni SD2Vita
 * Insertamos en el pc la Micro SD y extraemos en él el contenido del archivo "SDFiles.zip" (solo si la memoria esta limpia y no contiene ningun archivo de la PS Vita)
 * Quitamos la memoria oficial de la PS Vita con la consola apagada y insertamos el SD2Vita con la Micro SD
 * Encendemos la consola, abrimos el navegador y nos dirigimos al siguiente enlace "http://mlthaku.tk".
 * Cuando acabe el proceso, abrimos el instalador de "Henkaku ensō" y instalamos "Henkaku Ensō" (si lo tenias previamente instalado, reinstalalo).
+* Cuando se reinicie la vita, ya estará montado la SD2Vita de forma permanente.
+
+## PS Vita con Henkaku o Henkaku ensō previamente instalado sin SD2Vita previamente instalado
+* Insertamos en el pc la Micro SD y extraemos en él el contenido del archivo "SDFiles.zip"
+* Con la consola encendida y Henkaku/Henkaku ensō cargado, abrimos VitaShell o MolecularShell, nos dirigimos a ur0 borramos la carpeta "Tai" y apagamos la consola.
+* Quitamos la memoria oficial de la PS Vita con la consola apagada e insertamos el SD2Vita con la Micro SD.
+* Encendemos la consola, abrimos el navegador y nos dirigimos al siguiente enlace "http://mlthaku.tk".
+* Cuando acabe el proceso, abrimos el instalador de "Henkaku ensō" e instalamos "Henkaku Ensō" (si lo tenías previamente instalado, reinstalalo).
+* Cuando se reinicie la vita, ya estará montado la SD2Vita de forma permanente.
+
+## PS Vita con Henkakuo Henkaku ensō previamente instalado con SD2Vita previamente instalado
+* Con la consola encendida y Henkaku/Henkaku ensō cargado, abrimos VitaShell o MolecularShell, nos dirigimos a ur0 borramos la carpeta "Tai" y apagamos la consola.
+* Quitamos la memoria oficial de la PS Vita con la consola apagada e insertamos el SD2Vita con la Micro SD.
+* Encendemos la consola, abrimos el navegador y nos dirigimos al siguiente enlace "http://mlthaku.tk".
+* Cuando acabe el proceso, abrimos el instalador de "Henkaku ensō" e instalamos "Henkaku Ensō" (si lo tenías previamente instalado, reinstalalo).
 * Cuando se reinicie la vita, ya estará montado la SD2Vita de forma permanente.
 
 # Sources
