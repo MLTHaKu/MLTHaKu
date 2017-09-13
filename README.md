@@ -17,7 +17,7 @@ Bienvenido al repositorio principal donde se aloja toda la información sobre ML
 # Instrucciones
 
 ## PS Vita sin haber instalado previamente MLTHaKu.
-* Abre VitaShell o MolecularShell y borra la carpeta "tai" de ur0 y ux0
+* Abre VitaShell o MolecularShell y borra la carpeta "tai" de ur0 y ux0 (Si tienes henkaku o henkaku enso previamente instalado, si no, omite este paso)
 * Quitamos la memoria oficial de la PS Vita con la consola apagada y insertamos el SD2Vita con la Micro SD.
 * Encendemos la consola, abrimos el navegador y nos dirigimos al siguiente enlace "http://mlthaku.tk" y seleccionamos SD2VITA.
 * Se abrirá un menú, pulsa START para iniciar la instalación.
@@ -77,7 +77,7 @@ Welcome to the repository where store the all information about MLTHaKu.
 # Instructions
 
 ## PS Vita without MLTHaKu installed.
-* Open VitaShell or MolecularShell and delete the folder "tai" in "ur0" and "ux0"
+* Open VitaShell or MolecularShell and delete the folder "tai" in "ur0" and "ux0" (if you have Henkaku or Henkaku ensō previously installed on your system, if you didn't have Henkaku o Henkaku ensō, skip this step)
 * Remove your oficial memory  and insert the SD2VITA with the Micro SD.
 * Power on your console, open the browser, insert this link "http://mlthaku.tk" and choose SD2VITA.
 * When the menu is opened, press start and the installation process begins.
