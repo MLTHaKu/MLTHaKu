@@ -107,7 +107,7 @@ Welcome to the repository where store the all information about MLTHaKu.
 
 # Members
 * MiraLaTijera - Developer of MLTHaKu and betatester (PS VITA 1000 with SD2VITA).
-* Darkmet98 - Bugfixes, stability improvements, betatester (PS VITA 1000 with SD2VITA), maintainer of Github y Webmaster.
+* Darkmet98 - Bugfixes, stability improvements, betatester (PS VITA 1000 with SD2VITA), maintainer of Github and Webmaster.
 
 # Thanks to
 * Team Molecule (and the all contributors) for Henkaku, TaiHen and Henkaku Ensō.
